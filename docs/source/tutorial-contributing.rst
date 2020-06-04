@@ -110,6 +110,7 @@ List of tutorial participants
 - Nicki Zieber (University of Kansas)
 - Brooke Diviak (New York University)
 - Charles Murray (Stanford University)
+- Sawyer Norton (University of California, Davis)
 
 .. _Github issues overview:
 
